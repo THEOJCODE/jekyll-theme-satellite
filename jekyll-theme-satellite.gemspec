@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-satellite"
+  spec.name          = "EBM Daily"
   spec.version       = "1.4.0"
-  spec.authors       = ["Yankos"]
-  spec.email         = ["byanko55@gmail.com"]
+  spec.authors       = ["EBM Daily"]
+  spec.email         = ["contact.ebmdaily@gmail.com"]
 
   spec.summary       = "Satellite - Jekyll blog theme"
   spec.homepage      = "https://github.com/byanko55/jekyll-theme-satellite"
