@@ -1,13 +1,12 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: EBMdaily.xyz
+description: "Evidence Based Medicine"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: contact.ebmdaily@gmail.com
 twitter_username: twitter
-instagram_username: instagram
+instagram_username: ebmdaily.xyz
 linkedin_username: linkedin
 facebook_username: facebook
 
