@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-# About us 
+# OUR MISSION
 
 > Admin
 
