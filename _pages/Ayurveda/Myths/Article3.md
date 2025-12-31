@@ -9,6 +9,8 @@ thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 
 # Ayurveda Claims Tuberculosis Can Be Cured by Massage, Music, Alcohol, and “Observing Beautiful Ladies”. Let’s Talk Science.
 
+![image](https://ibb.co/5XytH4wJ)
+
 > Credit u/Singleshotdepresso
 
 A frequently shared excerpt from classical Ayurvedic texts claims that Rajayakshma (often equated with Tuberculosis) can be cured by massage, oil application, wearing pleasant clothes, medicated enemas, milk, ghee, meat soup, alcoholic preparations, perfumes, music, observing beautiful women, prayers, celibacy, donations, and good conduct.
