@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Evidence Based Medicine
 permalink: /about/
 ---
 
