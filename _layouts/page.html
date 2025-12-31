@@ -22,7 +22,7 @@
             <meta name="giscus_repoId" content="{{ site.giscus_repoId }}">
             <meta name="giscus_category" content="{{ site.giscus_category }}">
             <meta name="giscus_categoryId" content="{{ site.giscus_categoryId }}">
-           {% if page.thumbnail and page_type == "post" %}
+           {% if page.thumbnail %}
                 <style>
                     {%- assign check_localasset = page.thumbnail | split:'/' -%}
                     {% if check_localasset[0] == '' %}
