@@ -64,3 +64,22 @@ input::-webkit-search-results-decoration{
 @import "post";
 @import "search";
 @import "darkmode";
+
+/* --- Thumbnail Removal Logic --- */
+
+/* 1. By default, sabhi thumbnail boxes se background image hata do */
+.thumbnail {
+  background-image: none !important;
+  background-color: transparent !important; /* Agar koi color ho toh */
+}
+
+/* 2. Sirf jab 'show-bg' class maujood ho (jo humne post.html mein dali hai), tabhi image dikhe */
+.thumbnail.show-bg {
+  background-image: inherit !important;
+}
+
+/* 3. Homepage/Category page par thumbnail ka space kam karne ke liye (Optional) */
+body:not(.post-page) .thumbnail {
+  aspect-ratio: auto !important; /* Agar box bahut bada dikhe toh isse fix ho jayega */
+  min-height: 0 !important;
+}
