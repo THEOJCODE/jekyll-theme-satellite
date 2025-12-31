@@ -8,6 +8,8 @@ thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 ---
 # Why homeopathy failed me and why science matters
 
+> Credit u/Ecstatic_Ad5542
+
 Not-so-controversial take, homeopathy should be banned already.
 
 Let me begin properly. I have endometriosis. For the younger members of this sub who might not know, it is essentially a condition where the cells of the inner lining of the uterus - as in, the ones that come out during periods, grow outside the uterus as well. Leading to extreme pain, very heavy flow and in more extreme cases the risk of stones and benign tumors that might need surgical removal. Mine isn't that severe thankfully, or homeopathy would have rlly f-cked me over.
