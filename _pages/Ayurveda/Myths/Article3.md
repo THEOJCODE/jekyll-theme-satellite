@@ -27,16 +27,13 @@ Tuberculosis is cured with specific modern medicines that kill the TB bacteria. 
 
 # Why the Ayurvedic Claim Is Wrong
 
-1. No Antimicrobial Action
-Massage, music, perfumes, alcohol, prayers, or “pleasant sights” do not kill Mycobacterium tuberculosis.
-2. No Evidence of Cure
-3. There are zero randomized controlled trials showing Ayurvedic regimens curing TB.
-4. Historical Misinterpretation
-5. Ancient descriptions grouped multiple wasting diseases under one label. Not every “Rajayakshma” case was TB.
-6. Supportive Care ≠ Cure
-7. Good nutrition and rest can improve strength, but they do not eradicate bacteria.
-8. Alcohol Is Harmful in TB
-9. Alcohol worsens liver toxicity and interferes with TB drugs. Recommending it is medically irresponsible.
+These claims are wrong because they do not address the real cause of the disease. Tuberculosis does not go away on its own. Comfort based practices like massage music perfumes alcohol or rituals cannot remove the disease from the body. They may give temporary relief or false hope but the illness continues to progress silently.
+
+Such approaches create a false sense of safety. When people believe these methods can cure TB they delay seeking real care. During this time the disease worsens and spreads to others. The patient becomes weaker while the infection remains active.
+
+There is no reliable scientific proof that these methods can cure tuberculosis. No objective testing shows complete recovery clearance of disease or long term survival using these approaches alone. Promoting them as cure misleads patients and puts lives at risk.
+
+Most importantly these claims ignore the seriousness of TB. Tuberculosis is not a lifestyle problem or moral issue. Treating it as such minimizes the danger of the disease and contributes to avoidable suffering and deaths.
 
 # The Real Harm
 
