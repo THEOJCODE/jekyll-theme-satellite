@@ -65,24 +65,3 @@ input::-webkit-search-results-decoration{
 @import "search";
 @import "darkmode";
 
-/* --- THE ULTIMATE FIX --- */
-
-/* 1. Homepage aur Category list mein thumbnail ko jad se khatam karo */
-.inner-content > .thumbnail, 
-.category-page .thumbnail,
-#post-list .thumbnail {
-    display: none !important;
-}
-
-/* 2. Sirf jab Article (Post) khule, tabhi image dikhe */
-/* Jekyll themes usually single post page par alag container use karti hain */
-.post-header .thumbnail {
-    display: block !important;
-    background-image: inherit !important;
-}
-
-/* 3. Homepage par jo gap (space) ban raha hai use fix karne ke liye */
-body:not(.post-page) .post-header {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-}
