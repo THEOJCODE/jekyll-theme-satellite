@@ -52,11 +52,6 @@ Massage, music, perfumes, alcohol, prayers, or “pleasant sights” do not kill
 • Preventable deaths
 India already carries one of the highest TB burdens globally. Promoting unscientific cures worsens this crisis.
 
-Traditional texts may reflect observations, not validated treatments.
-Modern medicine keeps what works and discards what does not, based on evidence.
-Science is not disrespect.
-Questioning is not hatred.
-Patient safety comes first.
 Tuberculosis is not cured by massage, music, alcohol, perfumes, or observing women.
 It is cured by antibiotics, compliance, and evidence based care.
 Anything else is not alternative medicine.
