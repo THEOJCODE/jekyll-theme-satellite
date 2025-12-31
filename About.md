@@ -6,7 +6,9 @@ permalink: /about/
 
 # OUR MISSION
 
-> Admin
+> “प्रमाणयुक्ता चिकित्सा एव सत्यमार्गः। अप्रमाणिककल्पना रोगनाशिनी न भवति।”
+> Meaning in English
+> Only evidence based medicine is the true path. Practices without proof cannot cure disease.
 
 EBM Daily is a student led initiative formed to promote evidence based medicine and scientific thinking in healthcare. It was created in response to the increasing spread of medical misinformation pseudoscience and unverified treatment claims that often mislead the public and put patient safety at risk.
 
