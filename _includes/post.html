@@ -1,5 +1,5 @@
 <div class="post-header">
-    <div class="thumbnail">
+    <div class="thumbnail {% if page_type == 'post' %}show-bg{% endif %}">
         <div class="transbox">
             {% if page.title %}
                 <span class="post-title">{{ page.title }}</span>
