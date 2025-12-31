@@ -57,38 +57,6 @@ input::-webkit-search-results-decoration{
   --pagewidth-desktop:calc(max(min(100vw - #{$sidebarwd} - 2rem, #{$contentwd}), 44rem));
 }
 
-/* About button aur buttons ki alignment ke liye */
-.site-tab {
-  display: flex !important;
-  align-items: center !important;
-  width: 100%;
-  
-  .site-name {
-    margin-right: auto; /* Isse title left mein aur buttons right mein ho jayenge */
-    display: flex;
-    align-items: center;
-  }
-
-  button, #btn-about {
-    margin-left: 12px; /* Buttons ke beech thoda gap */
-    cursor: pointer;
-    transition: opacity 0.2s;
-    
-    &:hover {
-      opacity: 0.7;
-    }
-  }
-}
-
-/* Sidebar right ke tools ko ek ke niche ek rakhne ke liye */
-.sidebar-right .tools {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  align-items: center;
-  padding-top: 20px;
-}
-
 @import "sidebar";
 @import "navigation";
 @import "pagination";
