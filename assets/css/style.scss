@@ -65,22 +65,24 @@ input::-webkit-search-results-decoration{
 @import "search";
 @import "darkmode";
 
-/* --- Final Thumbnail Fix --- */
+/* --- THE ULTIMATE FIX --- */
 
-/* 1. Homepage/Category page par box ko hide karne ke liye */
-.thumbnail.is-home-page {
+/* 1. Homepage aur Category list mein thumbnail ko jad se khatam karo */
+.inner-content > .thumbnail, 
+.category-page .thumbnail,
+#post-list .thumbnail {
     display: none !important;
 }
 
-/* 2. Post page par background image aur box ko wapas lane ke liye */
-.thumbnail.is-post-page {
+/* 2. Sirf jab Article (Post) khule, tabhi image dikhe */
+/* Jekyll themes usually single post page par alag container use karti hain */
+.post-header .thumbnail {
     display: block !important;
     background-image: inherit !important;
-    background-color: transparent !important;
 }
 
-/* 3. Safetynet: Agar koi purani settings UI bigad rahi ho */
-body:not(.post-page) .thumbnail {
-    min-height: 0 !important;
-    aspect-ratio: auto !important;
+/* 3. Homepage par jo gap (space) ban raha hai use fix karne ke liye */
+body:not(.post-page) .post-header {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
 }
