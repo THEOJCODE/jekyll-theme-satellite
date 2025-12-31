@@ -23,13 +23,7 @@ It is a bacterial infection with well established pathology, microbiology, and n
 
 # What Actually Cures TB
 
-Modern medicine has proven, repeatedly and conclusively, that TB is cured by:
-• Combination antibiotic therapy
-• Drugs like isoniazid, rifampicin, ethambutol, and pyrazinamide
-• Treatment duration of 6 to 9 months or longer for drug resistant TB
-• Strict adherence under programs like DOTS
-This is not opinion.
-This is based on microbiological clearance, radiological resolution, culture conversion, and survival data.
+Tuberculosis is cured with specific modern medicines that kill the TB bacteria. As per the newer treatment guidelines, patients are treated for four months. The first two months use a combination of four drugs HRZM. This includes isoniazid, rifapentin, pyrazinamide, and moxifloxacin. The next two months use three drugs HRM. These medicines must be taken regularly under medical supervision. This treatment has been scientifically tested, proven effective, and is recommended by modern medicine to cure TB and prevent its spread.
 
 # Why the Ayurvedic Claim Is Wrong
 
@@ -46,14 +40,6 @@ Massage, music, perfumes, alcohol, prayers, or “pleasant sights” do not kill
 
 # The Real Harm
 
-• Delayed diagnosis
-• Continued transmission
-• Drug resistant TB
-• Preventable deaths
-India already carries one of the highest TB burdens globally. Promoting unscientific cures worsens this crisis.
+Unscientific TB claims cause delayed diagnosis and allow the infection to spread further in the community. Wrong or incomplete treatment increases the risk of drug resistant tuberculosis and leads to avoidable suffering and deaths. In a country like India with a very high TB burden such misinformation directly worsens an already serious public health problem.
 
-Tuberculosis is not cured by massage, music, alcohol, perfumes, or observing women.
-It is cured by antibiotics, compliance, and evidence based care.
-Anything else is not alternative medicine.
-It is medical misinformation.
-
+Tuberculosis is a serious infectious disease that spreads from person to person and can be fatal if not treated correctly. Relying on unproven traditional claims instead of modern treatment leads to delayed diagnosis continued spread drug resistance and avoidable deaths. TB is not cured by lifestyle practices rituals or comfort measures. It is cured only by scientifically tested anti TB medicines taken for the full prescribed duration under medical supervision. Protecting patients and public health requires evidence based treatment not belief based claims.
