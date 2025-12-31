@@ -10,6 +10,8 @@ thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 # Why chyawanprash survives on tradition not on scientific evidence?
 
 > Credit u/Boring_Researcher803
+
+
 Chyawanprash is the ultimate "Grandma said so" miracle. It has survived for 2,000 years not because it passed a double-blind clinical trial, but because it's a cultural heirloom. Calling it "medicine" in a scientific community is a bold move when it's basically Herbal Nutella.
 
 # The Sugar Trap
