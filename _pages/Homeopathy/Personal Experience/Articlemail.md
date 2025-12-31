@@ -3,7 +3,6 @@ title: "An Open Letter Against Homeopathy - From An Endometriosis Sufferer"
 tags:
     - Homeopathic 
     - Pseudoscience
-    - Personal Experience
 date: "2025-12-30"
 thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 ---
