@@ -9,7 +9,7 @@ thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 
 # Ayurveda Claims Tuberculosis Can Be Cured by Massage, Music, Alcohol, and “Observing Beautiful Ladies”. Let’s Talk Science.
 
-![Source](/assets/images/image3.png)
+![Source](/assets/img/image3.png)
 
 > Credit u/Singleshotdepresso
 
