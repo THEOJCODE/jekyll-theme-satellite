@@ -41,7 +41,7 @@ Trust science, not superstition.
 
 (Original screenshot attached – highlights are mine for the wildest parts)
 
-[Image attached – the page from Charaka Samhita with key passages highlighted and "PSEUDOSCIENCE ALERT" stamped over it]
+[Image attached – the page from Charaka Samhita with key passages highlighted]
 
 What’s the wildest medical claim you’ve seen from traditional/alternative medicine? Drop it in the comments.  
 
