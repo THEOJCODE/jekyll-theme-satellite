@@ -20,7 +20,12 @@ Ayurveda textbook claims "big penis" or excessive sex causes vaginal diseases �
 
 Found this gem circulating online from an English translation of Charaka Samhita (one of the foundational texts of Ayurveda). Chapter 38 of the "Treatment of diseases of vagina" section literally states:
 
-> "The woman who copulates much with a man having big penis, or with other men excessively, she who is dry, debilitated or very young, vāta gets aggravated in her body, becomes localised in the vagina and gives rise to diseases of the vagina."
+> "The woman who copulates much with a man
+> having big penis, or with other men
+> excessively, she who is dry, debilitated or
+> very young, vāta gets aggravated in her
+> body, becomes localised in the vagina and
+> gives rise to diseases of the vagina."
 
 It goes on to say these 20 vaginal disorders are caused by "indulgence in improper activities, disorders of menstrual fluid, abnormalities of the seed (ovum) and act of God (providence)."
 
